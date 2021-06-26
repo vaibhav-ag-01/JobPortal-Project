@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jobportal</title>
+</head>
+<body>
+ <hr>
+ <h2><center>Hello people...</center></h2>
+ <hr>
+ <center> <span style="border: 2px solid blue;" <h4> welcome to job portal</span></center></h4>
+ <br>
+ <center>Job portal is the one stop destination where you can find suitable job and hire workers for your organisation. </center>
+ <h3><center>If you are a <em>job seeker</em> then <a href="jobseeker.html" target="_blank">click here</a></center></h3>
+ <h3><center>If you are a <em>job provider</em> then <a href="jobprovider.html" target="_blank">click here</a></center></h3>
+ <hr>
+ <center>Best wishes from team Job portal!</center><br><br>
+ <p>contact us- 9876543210</p>
+ <p>email address- freelancervaibhav01@gmail.com</p>
+ <p><em>Copyright</em> &copy; 2021 under <strong>jobportal</strong> web pvt. ltd. All Rights Reserved.</p>
+
+                                             
+    </body

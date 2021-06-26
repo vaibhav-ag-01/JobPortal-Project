@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jobseeker</title>
+</head>
+
+<body>
+    <h2>
+        <center>Hello <strong> Jobprovider</strong>...</center>
+    </h2>
+    <center> <span style="border: 2px solid blue;" <h10> welcome to job portal </span> </center>
+    </h10>
+    <hr>
+    Please fill authentic details of post & organisation here :- <br><br>
+    <label for="name">Organisation Name:</label>
+    <input type="text" name="myname" id="name">
+    <br><br>
+    <div><label for="Post name">Post name:</label>
+        <input type="text" name="myname" id="Post name">
+    </div>
+    <br>
+    Min. salary/month (₹) : <input type="number" name="minsalary" <div>
+    <br><br>
+    Recruitment end date : <input type="date" name="mydob" </div>
+    <br><br>
+
+    <div>Give more details of your post & organisation -
+        <br> <textarea name="mytext" cols="30" rows="10"></textarea>
+    </div>
+    <img src="officeimage.jpg" width="400" height="300" <br>
+    <img src="field.jpg" width="400" height="300" <br>
+    <br>
+    <br>
+    <div>
+        <label for="Job type">Which Job type do you want to provide ? </label>
+        <select name="my job" id="Job type">
+            <option value="Field work">Field work</option>
+            <option value="Office work">Office work</option>
+    </div>
+    <br>
+    <div>
+        Are you eligible?: <input type="checkbox" name="myEligibility" checked>
+    </div>
+    <br>
+    <div>
+        <input type="reset" value="click here to reset details">
+    </div>
+    <a href="/t&c.html" target="_blank">click here</a> to submit form
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T&C</title>
+</head>
+
+<body>
+    <details>
+        <summary><strong> click here </strong> to read terms and conditions and submit form</summary>
+
+        <ol>
+            <li>Lorem ipsum dolor sit amet.</li>
+            <ul type=square>
+                <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos, veritatis.
+                </li>
+                <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sunt a, dolore cumque animi dolorum.
+                </li>
+            </ul>
+
+            <li>Lorem ipsum dolor sit amet.</li>
+            <ul type=circle>
+                <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos, veritatis.
+                </li>
+                <li>Lorem ipsum dolor sit amet, consectetur adipisicing.</li>
+                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sunt a, dolore cumque animi dolorum.
+                </li>
+            </ul>
+        </ol>
+        <br>
+        <br>
+        <center><a href="/submit.html"><input type="submit" value="Accept terms & conditions and submit" </a></center>
+
+    </details>
+
+
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submission successful</title>
+</head>
+
+<body>
+    <h3>Your details <em>submitted</em> successfully.</h3>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    Website designer
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Post</th>
+                <th>Institution</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Vaibhav Agarwal</td>
+                <td>Student</td>
+                <td>College</td>
+            </tr>
+            <tr>
+                <td>Harshit Agarwal</td><br>
+                <td>Student</td><br>
+                <td>School</td><br>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <br>
+    <center><em><strong>THANKYOU</strong></em></center>
+    <br>
+    <br>
+    <em>Team</em> :- Job Portal
+
+</body>
+
+</html>
